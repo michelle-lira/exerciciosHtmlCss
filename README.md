@@ -1,3 +1,3 @@
-# exerciciosHtmlCss 
+# Exercícios introdutórios: 
 ---
-Exercícios introdutórios: criando páginas com Html5 e CSS.
+Criando páginas com Html5 e CSS
