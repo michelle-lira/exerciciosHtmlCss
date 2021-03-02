@@ -1,3 +1,3 @@
-# Exercícios introdutórios: 
+# Meu primeiro site: 
 ---
-Criando páginas com Html5 e CSS
+Criando página com Html5 e CSS
